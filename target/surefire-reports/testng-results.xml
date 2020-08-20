@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="86" started-at="2020-08-11T15:59:15 EDT" finished-at="2020-08-11T15:59:15 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="86" started-at="2020-08-11T15:59:15 EDT" finished-at="2020-08-11T15:59:15 EDT">
+      <class name="Selenium.SeleniumjavaProject.AppiumTest">
+        <test-method status="PASS" signature="IosApps()[pri:0, instance:Selenium.SeleniumjavaProject.AppiumTest@131276c2]" name="IosApps" duration-ms="1" started-at="2020-08-11T15:59:15 EDT" finished-at="2020-08-11T15:59:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IosApps -->
+        <test-method status="PASS" signature="MobileAutomation()[pri:0, instance:Selenium.SeleniumjavaProject.AppiumTest@131276c2]" name="MobileAutomation" duration-ms="0" started-at="2020-08-11T15:59:15 EDT" finished-at="2020-08-11T15:59:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileAutomation -->
+      </class> <!-- Selenium.SeleniumjavaProject.AppiumTest -->
+      <class name="Selenium.SeleniumjavaProject.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:Selenium.SeleniumjavaProject.SeleniumTest@1c3a4799]" name="BrowserAutomation" duration-ms="26" started-at="2020-08-11T15:59:15 EDT" finished-at="2020-08-11T15:59:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="WebUI()[pri:0, instance:Selenium.SeleniumjavaProject.SeleniumTest@1c3a4799]" name="WebUI" duration-ms="0" started-at="2020-08-11T15:59:15 EDT" finished-at="2020-08-11T15:59:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebUI -->
+      </class> <!-- Selenium.SeleniumjavaProject.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
